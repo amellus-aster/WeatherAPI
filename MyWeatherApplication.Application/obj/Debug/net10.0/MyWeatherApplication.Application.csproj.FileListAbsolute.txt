@@ -1,0 +1,15 @@
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\bin\Debug\net10.0\MyWeatherApplication.Application.deps.json
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\bin\Debug\net10.0\MyWeatherApplication.Application.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\bin\Debug\net10.0\MyWeatherApplication.Application.pdb
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\MyWeatherApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\MyWeatherApplication.Application.AssemblyInfoInputs.cache
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\MyWeatherApplication.Application.AssemblyInfo.cs
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\MyWeatherApplication.Application.csproj.CoreCompileInputs.cache
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\MyWeatherApplication.Application.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\refint\MyWeatherApplication.Application.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\MyWeatherApplication.Application.pdb
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\ref\MyWeatherApplication.Application.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\bin\Debug\net10.0\MyWeatherApplication.Domain.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\bin\Debug\net10.0\MyWeatherApplication.Domain.pdb
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\MyWeatherApplication.Application.csproj.AssemblyReference.cache
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Application\obj\Debug\net10.0\MyWeathe.755F7286.Up2Date

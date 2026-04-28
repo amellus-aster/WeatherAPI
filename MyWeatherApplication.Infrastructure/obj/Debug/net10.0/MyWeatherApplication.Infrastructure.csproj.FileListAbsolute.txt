@@ -1,0 +1,15 @@
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\bin\Debug\net10.0\MyWeatherApplication.Infrastructure.deps.json
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\bin\Debug\net10.0\MyWeatherApplication.Infrastructure.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\bin\Debug\net10.0\MyWeatherApplication.Infrastructure.pdb
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeatherApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeatherApplication.Infrastructure.AssemblyInfoInputs.cache
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeatherApplication.Infrastructure.AssemblyInfo.cs
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeatherApplication.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeatherApplication.Infrastructure.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\refint\MyWeatherApplication.Infrastructure.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeatherApplication.Infrastructure.pdb
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\ref\MyWeatherApplication.Infrastructure.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\bin\Debug\net10.0\MyWeatherApplication.Domain.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\bin\Debug\net10.0\MyWeatherApplication.Domain.pdb
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeatherApplication.Infrastructure.csproj.AssemblyReference.cache
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeathe.EF87A338.Up2Date

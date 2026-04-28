@@ -1,0 +1,11 @@
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\bin\Debug\net10.0\MyWeatherApplication.Domain.deps.json
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\bin\Debug\net10.0\MyWeatherApplication.Domain.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\bin\Debug\net10.0\MyWeatherApplication.Domain.pdb
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\MyWeatherApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\MyWeatherApplication.Domain.AssemblyInfoInputs.cache
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\MyWeatherApplication.Domain.AssemblyInfo.cs
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\MyWeatherApplication.Domain.csproj.CoreCompileInputs.cache
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\MyWeatherApplication.Domain.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\refint\MyWeatherApplication.Domain.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\MyWeatherApplication.Domain.pdb
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\ref\MyWeatherApplication.Domain.dll
