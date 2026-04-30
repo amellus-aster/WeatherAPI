@@ -1,0 +1,39 @@
+﻿{
+  Value: {
+    Location: Ha Noi,
+    Country: Viet Nam,
+    Forecast: [
+      {
+        Date: 2026-05-01,
+        Sunrise: Time_1,
+        Sunset: Time_2,
+        MoonPhase: Waxing Gibbous,
+        Condition: Sunny,
+        MaxTempC: 17.6,
+        MinTempC: 9.9,
+        AvgTempC: 13.6
+      },
+      {
+        Date: 2026-05-02,
+        Sunrise: Time_3,
+        Sunset: Time_4,
+        MoonPhase: Full Moon,
+        Condition: Partly Cloudy,
+        MaxTempC: 20.1,
+        MinTempC: 11.2,
+        AvgTempC: 15.5
+      },
+      {
+        Date: 2026-05-03,
+        Sunrise: Time_5,
+        Sunset: Time_6,
+        MoonPhase: Waning Gibbous,
+        Condition: Light Rain,
+        MaxTempC: 15.8,
+        MinTempC: 10.5,
+        AvgTempC: 13.1
+      }
+    ]
+  },
+  StatusCode: 200
+}

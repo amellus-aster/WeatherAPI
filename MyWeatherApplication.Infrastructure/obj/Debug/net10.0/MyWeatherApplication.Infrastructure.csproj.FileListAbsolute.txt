@@ -13,3 +13,4 @@ D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\bin\D
 D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\bin\Debug\net10.0\MyWeatherApplication.Domain.pdb
 D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeatherApplication.Infrastructure.csproj.AssemblyReference.cache
 D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeathe.EF87A338.Up2Date
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Infrastructure\obj\Debug\net10.0\MyWeatherApplication.Infrastructure.sourcelink.json

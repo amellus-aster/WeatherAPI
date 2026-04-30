@@ -1,0 +1,4 @@
+﻿{
+  IsSuccess: false,
+  Error: Network Error
+}

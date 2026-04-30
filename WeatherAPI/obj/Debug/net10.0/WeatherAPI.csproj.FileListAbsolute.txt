@@ -46,3 +46,4 @@ D:\Journey\Dotnet\MyWeatherApplication\WeatherAPI\bin\Debug\net10.0\Microsoft.Id
 D:\Journey\Dotnet\MyWeatherApplication\WeatherAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 D:\Journey\Dotnet\MyWeatherApplication\WeatherAPI\bin\Debug\net10.0\MyWeatherApplication.Application.dll
 D:\Journey\Dotnet\MyWeatherApplication\WeatherAPI\bin\Debug\net10.0\MyWeatherApplication.Application.pdb
+D:\Journey\Dotnet\MyWeatherApplication\WeatherAPI\obj\Debug\net10.0\WeatherAPI.sourcelink.json

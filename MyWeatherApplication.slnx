@@ -3,7 +3,8 @@
     <Project Path="MyWeatherApplication.Application/MyWeatherApplication.Application.csproj" Id="e0b0dae2-de51-4e0b-b7e4-5220ad051874" />
     <Project Path="MyWeatherApplication.Domain/MyWeatherApplication.Domain.csproj" Id="8620fa9c-40ce-49e9-b76c-b928d157eb2b" />
     <Project Path="MyWeatherApplication.Infrastructure/MyWeatherApplication.Infrastructure.csproj" Id="c96a7f2d-890d-48cb-86a5-0f94d296e91a" />
-    <Project Path="WeatherAPI.Tests/WeatherAPI.Tests.csproj" Id="dba4af1a-98c2-4855-b2e0-28170118ebed" />
     <Project Path="WeatherAPI/WeatherAPI.csproj" Id="ccf1b728-e56d-4f90-bd17-ad40edcf50bb" />
+    <Project Path="WeatherAPI.Tests/WeatherAPI.Tests.csproj" />
   </Folder>
+  
 </Solution>

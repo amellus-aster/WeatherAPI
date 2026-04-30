@@ -17,7 +17,7 @@ public class GetForecastWeatherHandler : IRequestHandler<GetForecastWeatherQuery
     {
         try
         {
-            ForecastWeather weather = await _weatherService.GetForecastWeatherAsync(query.Location, query.Days);
+            ForecastWeather? weather = await _weatherService.GetForecastWeatherAsync(query.Location, query.Days);
             if (weather == null) return Result<ForecastWeatherDto>.Failure("null");
             var dto = new ForecastWeatherDto
             {
@@ -42,7 +42,7 @@ public class GetForecastWeatherHandler : IRequestHandler<GetForecastWeatherQuery
         catch (Exception ex)
         {
 
-            return Result<ForecastWeatherDto>.Failure($"Failed to api by {ex.Message}");
+            return Result<ForecastWeatherDto>.Failure($"{ex.Message}");
         }
     }
 }

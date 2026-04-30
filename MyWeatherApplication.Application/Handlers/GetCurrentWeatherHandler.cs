@@ -33,7 +33,7 @@ public class GetCurrentWeatherHandler : IRequestHandler<GetCurrentWeatherQuery, 
         catch (Exception ex)
         {
 
-            return Result<CurrentWeatherDto>.Failure($"Failed to api by {ex.Message}");
+            return Result<CurrentWeatherDto>.Failure($"{ex.Message}");
         }
     }
 }

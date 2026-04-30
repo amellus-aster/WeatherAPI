@@ -16,7 +16,7 @@ public class WeatherService : IWeatherService
         _httpClient = httpClient;
         _setting = setting.Value;
     }
-    public async Task<CurrentWeather> GetCurrentWeatherAsync(string location)
+    public async Task<CurrentWeather?> GetCurrentWeatherAsync(string location)
     {
         var url = $"{_setting.BaseUrl}/current.json?key={_setting.ApiKey}&q={location}&aqi=no";
         var response = await _httpClient.GetAsync(url);
@@ -37,7 +37,7 @@ public class WeatherService : IWeatherService
             Cloud = apiResponse.Current.Cloud,
         };
     }
-    public async Task<ForecastWeather> GetForecastWeatherAsync(string location, int days)
+    public async Task<ForecastWeather?> GetForecastWeatherAsync(string location, int days)
     {
         var url = $"{_setting.BaseUrl}/forecast.json?key={_setting.ApiKey}&q={location}&days={days}&aqi=no";
         var response = await _httpClient.GetAsync(url);

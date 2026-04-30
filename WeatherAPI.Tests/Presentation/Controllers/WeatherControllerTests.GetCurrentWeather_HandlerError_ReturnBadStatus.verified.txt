@@ -1,0 +1,4 @@
+﻿{
+  Value: example error,
+  StatusCode: 400
+}

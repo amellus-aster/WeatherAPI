@@ -1,0 +1,10 @@
+﻿{
+  Location: London,
+  Country: United Kingdom,
+  TemperatureC: 18.1,
+  Condition: Partly Cloudy,
+  WindSpeed: 17.7,
+  Humidity: 30.0,
+  FeelslikeC: 18.1,
+  UvIndex: 2.7
+}

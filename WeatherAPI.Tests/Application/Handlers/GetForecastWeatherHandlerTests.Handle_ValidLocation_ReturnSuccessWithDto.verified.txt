@@ -1,0 +1,45 @@
+﻿{
+  IsSuccess: true,
+  Data: {
+    Location: Ha Noi,
+    Country: Viet Nam,
+    Forecast: [
+      {
+        Date: 2026-04-29,
+        Sunrise: ,
+        Sunset: ,
+        MoonPhase: ,
+        Condition: Sunny,
+        MaxTempC: 32.0,
+        MinTempC: 25.0
+      },
+      {
+        Date: 2026-04-30,
+        Sunrise: ,
+        Sunset: ,
+        MoonPhase: ,
+        Condition: Cloudy,
+        MaxTempC: 30.0,
+        MinTempC: 24.0
+      },
+      {
+        Date: 2026-05-01,
+        Sunrise: ,
+        Sunset: ,
+        MoonPhase: ,
+        Condition: Rainy,
+        MaxTempC: 28.0,
+        MinTempC: 23.0
+      },
+      {
+        Date: 2026-05-02,
+        Sunrise: ,
+        Sunset: ,
+        MoonPhase: ,
+        Condition: Partly Cloudy,
+        MaxTempC: 29.0,
+        MinTempC: 24.0
+      }
+    ]
+  }
+}

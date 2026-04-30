@@ -9,3 +9,4 @@ D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net
 D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\refint\MyWeatherApplication.Domain.dll
 D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\MyWeatherApplication.Domain.pdb
 D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\ref\MyWeatherApplication.Domain.dll
+D:\Journey\Dotnet\MyWeatherApplication\MyWeatherApplication.Domain\obj\Debug\net10.0\MyWeatherApplication.Domain.sourcelink.json

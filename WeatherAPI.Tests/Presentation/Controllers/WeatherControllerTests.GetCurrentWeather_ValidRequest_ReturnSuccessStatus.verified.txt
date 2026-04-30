@@ -1,0 +1,12 @@
+﻿{
+  Value: {
+    Location: London,
+    Country: United Kingdom,
+    TemperatureC: 25.0,
+    Condition: Sunny,
+    Humidity: 1.0,
+    FeelslikeC: 26.0,
+    Cloud: 1.0
+  },
+  StatusCode: 200
+}

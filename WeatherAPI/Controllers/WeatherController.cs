@@ -3,7 +3,7 @@ using MediatR;
 using MyWeatherApplication.Application.Queries;
 using MyWeatherApplication.Domain.Common;
 using MyWeatherApplication.Application.DTOs;
-namespace MyWeatherApplication.WeatherApi.Controllers
+namespace MyWeatherApplication.WeatherAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

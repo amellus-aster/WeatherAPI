@@ -1,0 +1,11 @@
+﻿{
+  IsSuccess: true,
+  Data: {
+    Location: Ha Noi,
+    Country: Viet Nam,
+    TemperatureC: 25.0,
+    Condition: Sunny,
+    Humidity: 2.0,
+    FeelslikeC: 26.0
+  }
+}
